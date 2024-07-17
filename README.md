@@ -1,7 +1,7 @@
 # Hello, I'm Ori
 <a href="www.linkedin.com/in/ori-iankovitch-56a49923a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a dedicated Cybersecurity graduate with a robust foundation in network security, threat analysis, and incident response. I have a strong passion for continuous improvement and a drive to stay ahead in the ever-evolving world of cybersecurity.
+dedicated Cybersecurity graduate with a robust foundation in network security, threat analysis, and incident response. I have a strong passion for continuous improvement and a drive to stay ahead in the ever-evolving world of cybersecurity.
 
 🌐 My Expertise:
 
